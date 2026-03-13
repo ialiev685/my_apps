@@ -2,7 +2,7 @@
 
 https://www.all-inc-travel-online.ru Сайт туристического агенства. Использовал Next.js, Django, Docker, Nginx, CI/CD для автодеплоя. 
 
-@testing_my_app_2025_bot - Бот для обработки заявок.  Использовал python, библиотеку pyTelegramBotAPI, docker-compose, CI/CD для автодеплоя в режиме dev и prod. 
+@all_inclusive_travel_online_bot - Бот для обработки заявок.  Использовал python, библиотеку pyTelegramBotAPI, docker-compose, CI/CD для автодеплоя в режиме dev и prod. 
 
 Тренирочные:
 
