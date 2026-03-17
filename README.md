@@ -1,8 +1,10 @@
 # my_apps
 
-https://www.all-inc-travel-online.ru Сайт туристического агенства. Использовал Next.js, Django, Docker, Nginx, CI/CD для автодеплоя. 
+https://www.all-inc-travel-online.ru Сайт туристического агенства. Использовал Next.js, Django, Docker, Nginx, Github Actions для автодеплоя. 
 
-@all_inclusive_travel_online_bot - Бот для обработки заявок.  Использовал python, библиотеку pyTelegramBotAPI, docker-compose, CI/CD для автодеплоя в режиме dev и prod. 
+@all_inclusive_travel_online_bot - Бот для обработки заявок.  Использовал python, библиотеку pyTelegramBotAPI, docker-compose, Github Actions для автодеплоя в режиме dev и prod. 
+
+https://www.signature-verification.net.ru Приложение для праверки на валидность открепленной подписи и получении информации о подписанте. В веб использовал React(vite). На стороне сервера использовал сервисы Node.js и FastApi. Всспомогательные технологии Docker, Github Actions, Nginx.
 
 Тренирочные:
 
