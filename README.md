@@ -1,10 +1,12 @@
 # my_apps
 
-https://www.all-inc-travel-online.ru Сайт туристического агенства. Использовал Next.js, Django, Docker, Nginx, Github Actions для автодеплоя. 
+https://github.com/ialiev685/all_inc_site - Сайт туристического агенства. Использовал Next.js, Django, Docker, Nginx, Github Actions для автодеплоя. 
 
-@all_inclusive_travel_online_bot - Бот для обработки заявок.  Использовал python, библиотеку pyTelegramBotAPI, docker-compose, Github Actions для автодеплоя в режиме dev и prod. 
+https://github.com/ialiev685/mailing_bot - Бот для обработки заявок.  Использовал python, библиотеку pyTelegramBotAPI, docker-compose, Github Actions для автодеплоя в режиме dev и prod. 
 
-https://www.signature-verification.net.ru Приложение для праверки на валидность открепленной подписи и получении информации о подписанте. В веб использовал React(vite). На стороне сервера использовал сервисы Node.js и FastApi, с использованием библиотек pycades, pkijs, asn1js внутри сервера. Всспомогательные технологии Docker, Github Actions, Nginx.
+https://github.com/ialiev685/shop - Интернет магазин. Использовал Fastify(node.js), React(vite), Docker-compose, Nginx, Docker-compose
+
+https://github.com/ialiev685/signing_module - Приложение для праверки на валидность открепленной подписи и получении информации о подписанте. В веб использовал React(vite). На стороне сервера использовал сервисы Node.js и FastApi, с использованием библиотек pycades, pkijs, asn1js внутри сервера. Всспомогательные технологии Docker, Github Actions, Nginx.
 
 Тренирочные:
 
